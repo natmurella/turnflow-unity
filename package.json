@@ -1,0 +1,13 @@
+{
+  "name": "com.turnflow.unity",
+  "version": "0.0.1",
+  "displayName": "TurnFlow Unity",
+  "description": "TurnFlow Unity Package",
+  "unity": "2020.3",
+  "dependencies": {
+    "com.dbrizov.naughtyattributes": "https://github.com/dbrizov/NaughtyAttributes.git#upm"
+  },
+  "author": {
+    "name": "Nathan Brysland"
+  }
+}

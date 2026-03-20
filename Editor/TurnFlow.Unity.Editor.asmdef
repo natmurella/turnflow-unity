@@ -1,0 +1,20 @@
+{
+  "name": "TurnFlow.Unity.Editor",
+  "rootNamespace": "TurnFlow.Unity.Editor",
+  "references": [
+    "TurnFlow.Unity",
+    "NaughtyAttributes.Core",
+    "NaughtyAttributes.Editor"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
